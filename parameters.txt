@@ -1,0 +1,16 @@
+mVeh=150
+mDriver=60                                          
+mS=6                        
+theta=0                 
+g=9.80665              
+mu=0.77                     
+aF=1.4                      
+cD=0.12                     
+rho=1.225                  
+vVeh=8.33
+rT=0.290 
+dist=1400
+tLap=180
+effMech=0.700000
+k=0.91
+V=120
