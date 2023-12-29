@@ -1,7 +1,7 @@
 mVeh=150
 mDriver=60                                          
 mS=6                        
-theta=0                 
+theta=11                 
 g=9.80665              
 mu=0.77                     
 aF=1.4                      
